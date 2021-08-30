@@ -1,0 +1,4 @@
+1. Hosting your website on a server that is always live for everyone to see.
+2. Second to last, before maintenance.
+3. Bluehost, heroku, AWS, godaddy, hostgator
+	-differ in price, traffic allowed, disk space available, server location, speed, number of websites
